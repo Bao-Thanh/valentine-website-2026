@@ -8,31 +8,33 @@ const CONFIG = {
   pageTitle: 'Một điều nhỏ cho Như Ý 🌊',
 
   floatingEmojis: {
-    hearts: ['🌊', '💠', '✨', '⭐', '☁️', '🫧', '💎', '♊', '🔷'],
+    hearts: ['🌊', '💠', '✨', '⭐', '☁️', '🫧', '💎', '♊', '🔷', 
+    '😸', '😹', '🙀', '😿', '😾', '🐱', '🐈‍⬛', '🐈'],
     bears: ['🐳', '🐋', '🌊', '✨', '💠', '♊', '🔹'],
   },
 
   questions: {
     first: {
       text:
-        'Anh có một nhận xét nhỏ...\n\nNhư Ý có biết mình rất xinh và rất dễ thương không? 🌊🐳',
-      yesBtn: 'Biết chứ 😌',
-      noBtn: 'Không tin đâu 🙈',
+        'Website này anh làm riêng tặng cho Như Ý nha...\n\nMột cô gái rất xinh xắn và vô cùng dễ thương!!! 🌊🐳',
+      yesBtn: 'OK!!!🐋',
+      noBtn: 'Không tin đâu 😿',
       secretAnswer: 'Tin đi, ai nhìn cũng thấy vậy mà 🌊',
     },
 
     second: {
       text:
-        'Nếu sự dễ thương của Như Ý là màu xanh dương... 🌊\n\nThì chắc cả đại dương cũng phải nhường chỗ 🐳🌊',
+        'Nếu sự dễ thương của Như Ý được xem như là một màu xanh dương... 🌊\n\nThì chắc cả đại dương cũng phải nhường chỗ 🐳🌊',
       startText: 'Thử kéo xem 🌊',
       nextBtn: 'Tiếp nè 🐳',
     },
 
     third: {
       text:
-        'Valentine này anh chỉ muốn gửi một lời thật lòng...\n\nGiữa những ồn ào của cuộc sống, có những người vẫn mang theo một sự dịu dàng rất riêng — Như Ý là một trong số đó 🌊🐳',
-      yesBtn: 'Biết rồi 😆',
-      noBtn: 'Ngại quá 🙈',
+        'Giữa những ồn ào của cuộc sống, có những người vẫn mang theo một sự dịu dàng rất riêng — Như Ý là một trong số đó 🌊🐳',
+      secretText: 'Điều bất ngờ còn ở phía sau nha...', 
+      yesBtn: 'Xem tiếp',
+      noBtn: 'Dừng lại',
     },
   },
 

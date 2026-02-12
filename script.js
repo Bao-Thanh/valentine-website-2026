@@ -74,6 +74,7 @@ window.addEventListener('DOMContentLoaded', () => {
     
     // Set third question texts
     document.getElementById('question3Text').textContent = config.questions.third.text;
+    document.getElementById('question3SecretText').textContent = config.questions.third.secretText;
     document.getElementById('yesBtn3').textContent = config.questions.third.yesBtn;
     document.getElementById('noBtn3').textContent = config.questions.third.noBtn;
 
