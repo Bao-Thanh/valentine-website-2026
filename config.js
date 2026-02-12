@@ -16,7 +16,7 @@ const CONFIG = {
   questions: {
     first: {
       text:
-        'Website này anh làm riêng tặng cho Như Ý nha...\n\nMột cô gái rất xinh xắn và vô cùng dễ thương!!! 🌊🐳',
+        'Website này anh làm riêng tặng cho Như Ý nha...\n\nMột cô gái vô cùng xinh xắn và dễ thương!!! 🌊🐳',
       yesBtn: 'OK!!!🐋',
       noBtn: 'Không tin đâu 😿',
       secretAnswer: 'Tin đi, ai nhìn cũng thấy vậy mà 🌊',
@@ -74,7 +74,7 @@ const CONFIG = {
     enabled: true,
     autoplay: true,
     musicUrl:
-      'https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3',
+      'https://res.cloudinary.com/dvpvyfx3j/video/upload/v1770895301/%C4%90%C6%B0%E1%BB%9Dng_V%E1%BB%81_Long_An_b4khpq.mp4',
     startText: '🎵 Bật nhạc 🌊',
     stopText: '🔇 Tắt nhạc',
     volume: 0.5,
